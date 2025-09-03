@@ -403,8 +403,8 @@ export default function PortfolioAnaBeatrizTinini() {
 
       <footer className="border-t mt-8">
         <div className="max-w-6xl mx-auto px-4 py-8 text-sm text-neutral-600 flex flex-col md:flex-row items-start md:items-center justify-between gap-3">
-          <p>© {new Date().getFullYear()} {ARTIST.name}. Portfólio minimalista.</p>
-          <p>Feito para violino.</p>
+          <p>© {new Date().getFullYear()} {ARTIST.name} - Violinista Profissional.</p>
+          <p>Feito por Heitor J. de Lima.</p>
         </div>
       </footer>
     </div>
